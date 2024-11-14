@@ -1,0 +1,11 @@
+C:\Users\WinBook\Desktop\RPSGame\RPSGame\bin\Debug\RPSGame.exe.config
+C:\Users\WinBook\Desktop\RPSGame\RPSGame\bin\Debug\RPSGame.exe
+C:\Users\WinBook\Desktop\RPSGame\RPSGame\bin\Debug\RPSGame.pdb
+C:\Users\WinBook\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.AssemblyReference.cache
+C:\Users\WinBook\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.Game_Page.resources
+C:\Users\WinBook\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.Home_Page.resources
+C:\Users\WinBook\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.Properties.Resources.resources
+C:\Users\WinBook\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.GenerateResource.cache
+C:\Users\WinBook\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.CoreCompileInputs.cache
+C:\Users\WinBook\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.exe
+C:\Users\WinBook\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.pdb
